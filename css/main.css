@@ -2222,6 +2222,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #000;
 }
 
+#profile-img {
+  border-radius: 20%;
+}
+
 .about-area {
   background-color: #f9f9ff;
 }
